@@ -1,0 +1,2 @@
+model_checkpoint_path: "char_level_cnn"
+all_model_checkpoint_paths: "char_level_cnn"
